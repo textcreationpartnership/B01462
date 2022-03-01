@@ -1,0 +1,828 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aron's rod: or a scourge for the malicious slanderers of the tribe of Levi</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01462</idno>
+            <idno type="STC">Wing A44</idno>
+            <idno type="STC">ESTC R204296</idno>
+            <idno type="EEBO-CITATION">51541059</idno>
+            <idno type="OCLC">ocm 51541059</idno>
+            <idno type="VID">175119</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175119)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2713:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aron's rod: or a scourge for the malicious slanderers of the tribe of Levi</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n,</publisher>
+                  <pubPlace>[S.l :</pubPlace>
+                  <date>169-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imperfect: tightly bound, with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Great Britain --  17th century --  Poetry.</term>
+               <term>Great Britain --  History --  Stuarts, 1603-1714 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:175119:1" rendition="simple:additions"/>
+            <head>ARON'S ROD: OR A Scourge for the Malicious Slanderers of the TRIBE of LEVI.</head>
+            <lg>
+               <l>AT firſt Man was Created free from Vice,</l>
+               <l>And ſway'd his Scepter over Paradice.</l>
+               <l>Enjoy'd all Pleaſures, till unhappy <hi>Eve,</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id his <hi>unthinking Soul</hi> with ſin deceive:</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich made him eat, and by his Taſt he fell</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nder the ſentence of an endleſs Hell.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Great Creator in proceſs of time</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gan to pity fallen <hi>Adam</hi>'s crime,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd to that end to Mortals he made known</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Sacred Sanctions which they all ſhould own.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd more to keep Rebellious man in awe,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Luſts were bounded by his Sacred Law:</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat fallen man did he obſerve but this,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho he had <hi>Failings</hi> might not loſe his Bliſs.</l>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hus Heaven reſolv'd to make him truly bleſt,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ent him <hi>the beſt of Guides a Picus Prieſt,</hi>
+                  </l>
+                  <l>To guide him to his Home his place of Reſt.)</l>
+               </lg>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ometime frail man embrac'd the <hi>Prieſt</hi> and <hi>Law.</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd then his <hi>Spirit</hi> kept his <hi>Fleſh</hi> in awe.</l>
+               <l>The name of Schiſm for long time was hid</l>
+               <l>Man watch'd his Paths and minded what he did.</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>chiſm!</hi> the name was ſtrange, diſſenting too,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thing the ancient Levites never knew:</l>
+               <l>One God they only ſerv'd, to one did pray,</l>
+               <l>All men obey'd in a conforming way,</l>
+               <l>Each <hi>Iſraelite</hi> his Love to God expreſt</l>
+               <l>They honour'd God in Reverencing <hi>his Prieſt.</hi>
+               </l>
+               <l>Thus 'twas till wicked man indulg'd each ſin,</l>
+               <l>Revolted from his <hi>God</hi> and <hi>Prieſts</hi> agen,</l>
+               <l>Then <hi>Schiſm</hi> like a Thief came creeping in.</l>
+            </lg>
+            <lg>
+               <l>O Heav'nly Powers who view the hearts of men,</l>
+               <l>Inſpire my Muſe, and guide my injur'd Pen,</l>
+               <l>Kindle an Holy Paſſion in my Breſt</l>
+               <l>Let my incenſed Quill enjoy no reſt (Pious Prieſt.)</l>
+               <l>Till I have ſham'd your Foes and clear'd your</l>
+               <l>Let my inraged Pen in ſtrokes of blood</l>
+               <l>Laſh all Schiſmaticks, and defend the Good.</l>
+            </lg>
+            <lg>
+               <l>Ah Bleſſed <hi>Albion,</hi> happy fertile Iſle,</l>
+               <l>Thou ſecond <hi>Canaan,</hi> thou moſt bleſſed Soil,</l>
+               <l>Thou art well manur'd and moſt heavenly dreſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And well inſtructed by thy painful Prieſt,</l>
+               <l>Who like a careful Shepherd will not ſleep</l>
+               <l>When Wolves are ne're to captivate his ſheep.</l>
+               <l>Endeavours ſtill to increaſe his Heavenly bree<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>And often faſts himſelf whilſt others feed,</l>
+               <l>They're not well pleas'd to ſee the Wolves devo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>Their little Lambs by <hi>Arbitray Power,</hi>
+               </l>
+               <l>But like the Gods they always ſtrive to move</l>
+               <l>Th'Impious world to Peace with Songs of Love</l>
+               <pb n="2" facs="tcp:175119:2"/>
+               <l> They ſtill detect <hi>Impoſtures</hi> which deceive:</l>
+               <l>
+                  <hi>Their Heavenly Lives would make a Jew believe.</hi>
+               </l>
+               <l>
+                  <hi>Nor is the King, his Throne or Kingdom bleſt</hi>
+               </l>
+               <l>
+                  <hi>Without that good that Godlike man a Prieſt.</hi>
+               </l>
+               <l>Without them all things vaniſh as a ſmoke,</l>
+               <l>And all Affairs with evil aſpects look.</l>
+               <l>With Raptures fill'd, their hearts with heavenly flame</l>
+               <l>Defie great Titles, and a ſpecious Name.</l>
+               <l>
+                  <hi>The Barthen'd Axles of the world would break</hi>
+               </l>
+               <l>
+                  <hi>If once the Levites ſhould but ceaſe to ſpeak,</hi>
+               </l>
+               <l>
+                  <hi>The ſolid Orb would to a Chaos turn,</hi>
+               </l>
+               <l>
+                  <hi>The Elements would ſigh, the Rocks would mourn.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Near to the <hi>Thames</hi> a ſtately Fabrick ſtands</l>
+               <l>Whoſe lofty Turrets look around the ſands,</l>
+               <lg>
+                  <l>Whoſe Cedar ſtuds no Fate can e're moleſt,</l>
+                  <l>Where lives a <hi>Levite,</hi> whom the world calls <hi>Prieſt</hi>
+                  </l>
+                  <l>(Ah happy place enjoying ſuch a Gueſt)</l>
+               </lg>
+               <l>
+                  <hi>His Soul's adorn'd with Grace, his Head with years,</hi>
+               </l>
+               <l>
+                  <hi>His life's a glory to his hoary hairs.</hi>
+               </l>
+               <l>This Holy Levite did King <hi>James</hi> Enthrone</l>
+               <l>Not (as ſuppos'd) by inventions of his own,</l>
+               <l>But only as a Levite ought to have done.</l>
+               <l>For <hi>James</hi> was Heir Preſumptive to the Crown,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd 'twas K. <hi>James</hi> not he that did K. <hi>J.</hi> pull down</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e as he ought his Soveraigns will declar'd,</l>
+               <l>And yet how ſoon he in affliction ſhar'd!</l>
+               <l>Poor <hi>Levy</hi>'s Tribe was almoſt brought to ſhame</l>
+               <l>Scarce daring once to own old <hi>Levy</hi>'s name;</l>
+               <l>Him the Nonconforming Crew diſgrac'd,</l>
+               <l>With them his Conſcience for his Intereſt paſt.</l>
+               <l>Old <hi>Levy</hi>'s Soul abhor'd a <hi>Romiſh</hi> Shroud,</l>
+               <l>And all the Clamors of the ſenſeleſs crowd.</l>
+            </lg>
+            <lg>
+               <l>Unhappy <hi>James,</hi> unhappy reſtleſs fate!</l>
+               <l>That brought on thee a Nonconforming hate.</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt thou abridg'd us of our Common-Prayer,</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>kt out a Biſhop, put a Cobler there;</l>
+               <l>Rent off the Surplice, tore the Holland-ſleeves,</l>
+               <l>And made the Houſe of God a Den of Thieves.</l>
+               <l>Had you in ſeaſon publiſh'd a Decree,</l>
+               <l>That every man ſhould pray <hi>Ex tempore.</hi>
+               </l>
+               <lg>
+                  <l>Had you but pull'd off every Levite's Gown,</l>
+                  <l>Took the Mitre from each Biſhop's Crown,</l>
+                  <l>And ſo have tumbled all Religion down.</l>
+               </lg>
+               <lg>
+                  <l>Had you commanded <hi>Levy</hi> to revoke,</l>
+                  <l>And order'd every man to preach in's Cloak,</l>
+                  <l>'Twould but have been a Nonconforming Joke.</l>
+               </lg>
+               <l>You might have now been ſome where <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>It might have bin a cloſer place than <hi>Fran<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>But not to give them all, was to depoſe</l>
+               <l>
+                  <hi>Ex tempore</hi> Champions, and inthrone y<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>But now you ſee the effects of it at laſt.</l>
+               <l>With <hi>Con</hi>'s and <hi>Non</hi>'s, and Negatives you <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>They who betray'd your Father heretofo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>With Reforms, Nonforms, and a thouſan<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Taught you a form you never knew bef<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>They made the form in which you loſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>But Gods knows in what form you went away.</hi>
+               </l>
+               <l>By Nonconforming to the Levites then,</l>
+               <l>And by conforming to Nonforming men,</l>
+               <l>You loſt your Scepter and your Diadem</l>
+               <l>Good <hi>Levy</hi> ſeeing how the cauſe declin'd,</l>
+               <l>How Nonconforms with other Forms were</l>
+               <l>Wiſely retir'd to his ſilent Clel.</l>
+               <l>To wait the Iſſue of what ſoon befell.</l>
+               <l>The Great <hi>Naſſau</hi> invited o're the Mayn,</l>
+               <l>
+                  <hi>Rome</hi> and <hi>Geneva</hi>'s Cauſe grew to a wain.</l>
+               <l>Then pious <hi>Levy</hi> (as he ought) came down</l>
+               <l>To bid our <hi>David</hi> welcome to the Town.</l>
+               <l>How happy is that Crown, how bleſs'd the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Guarded by Levites, fears no ſudden fate?</l>
+               <l>Tyranny never can create a King,</l>
+               <l>The People choſe him, he deſerves the t<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </l>
+               <l>But <hi>Levy</hi> Anoints him, brings the Offering</l>
+               <l>'Tis <hi>Levy</hi> 'noints his Sacred Head with Oy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>'Tis <hi>Levy</hi> Prays, and Crowns, has all the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Tho it was not for this <hi>Naſſau</hi> came o're,</l>
+               <l>But only ancient Freedoms to reſtore.</l>
+               <l>
+                  <hi>To Thump and kick the Babiloniſh Whore.</hi>
+               </l>
+               <l>Had <hi>Naſſau</hi> fail'd, the world's deſigns were</l>
+               <l>The name of <hi>Levy</hi> in oblivion loſt.</l>
+               <l>But <hi>William</hi> proſpers (as Heaven averte his <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>His Foes may frown, but he's defended ſti<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>His preſervation too we muſt aſcribe</l>
+               <l>Next under God to pious <hi>Levy</hi>'s Tribe:</l>
+               <l>Guarded by juſter Heaven and them, bears <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Scorns the hate of each diſſenting tool,</l>
+               <l>Who turn God's Servants unto Ridicule.</l>
+               <l>The Church pretents to keep no Civil Rig<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>Levy</hi>'s Divine; <hi>but who are Gib<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onites?</hi>
+               </l>
+               <l>
+                  <hi>Levy</hi> has all the Civil Claims forſook.</l>
+               <l>And to his God, his Church, and King b<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </l>
+               <pb n="3" facs="tcp:175119:3"/>
+               <l> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>er than have's Religion left i'th lurch,</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ld choſe to die a Martyr for his Church.</l>
+               <lg>
+                  <l>Will to Heaven's, wholly he reſign'd</l>
+                  <l>—no, 'tis below, good <hi>Levy</hi>'s Godlike mind;</l>
+                  <l>Heavenly ſpirit is too well refin'd.</l>
+               </lg>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at Court thy abſence many mourn,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> eager eyes, expect thy bleſt Return.</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e from thy Cell, come to thy Princeſs Court,</l>
+               <l>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ther the chief of thy bleſt Tribe reſort.</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y Retirement be not ſo extream,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Enemies of thy God Blaſpheme.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here was a time when every Blockhead rul'd,</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n Loyal Wits by ſenſeleſs Knaves were gull'd,</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n Treaſon was become a common trade,</l>
+               <l>Love and Nature ſeemed retrograde.</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n all the Land was in a ſenceleſs maze;</l>
+               <l>'twas eſteem'd a vertue to be baſe.</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n each <hi>Achitophel</hi>'s curs'd Counſel ſtood,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> none were puniſh'd, but the Juſt and Good.</l>
+               <l>
+                  <gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>t <hi>Charles</hi> was murther'd at his Palace-gate,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> baſe Mechanicks rul'd the Church and State.</l>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>es were baniſh'd, all was overſway'd,</l>
+                  <l>
+                     <gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>ers and Weavers preach'd, and were obey'd,</l>
+                  <l>
+                     <gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>ll was Law, (not Goſpel that they ſaid)</l>
+               </lg>
+               <lg>
+                  <l>Heir apparent to the Crown was fled,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>other exil'd, and his Father dead,</l>
+                  <l>
+                     <gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>e compel'd (poor Prince!) to ſeek for bread.</l>
+               </lg>
+               <l>Land was delug'd o're with guilt and blood,</l>
+               <l>'twas no wonder—All did what they wou'd;</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing, no Common-Prayer, was all their cry,</l>
+               <l>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ormers all, muſt Nonconform or die.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was then ſo full of guilt and ſin,</l>
+               <l>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>od given o're, and Sects in ſhoals came in,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Rump uncertain, who was in the right,</l>
+               <l>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>v'd for all <hi>(excepte the true)</hi> to fight.</l>
+               <l>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ous of Sects, they dare not truſt their own;</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as they made no ſport, they'd hinder none.</l>
+               <l>Layick had a Religion of his own:</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all the Land was even Pagans grown.</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tabliſh no Religion was their care.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eath to name the King or Common-Prayer.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame of <hi>Levy</hi> was extinguiſht quite.</l>
+            </lg>
+            <lg>
+               <l>Nonconforms made the Peoples light,</l>
+               <l>
+                  <hi>Levy</hi>'s Tribe went mourning up and down,</l>
+               <l>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>on'd by every Scribler in the Town;</l>
+               <l>Wandring in deſerts, cloath'd in Camels hair,</l>
+               <l>(As in old time, the good Diſciples were)</l>
+               <l>Had nothing to ſupport their ſouls but prayer.</l>
+               <l>Their Pulpits were uſurp'd, their Lands muſt be</l>
+               <l>Preys for <hi>Quack-ſalvers</hi> in Divinity.</l>
+               <l>If they'd not conform, to Nonconformity.</l>
+               <l>This Reverend <hi>Laud</hi> did feel; this his offence</l>
+               <l>He loſt his head for being true to's Prince.</l>
+               <l>A Man ſo juſt, ſo loyal, and ſo good,</l>
+               <l>Deſerves Incomiums to be wrote in Blood.</l>
+               <l>If there be Charmes in verſe, that can awake</l>
+               <l>Cold Aſhes from their ſilent Urns, and make,</l>
+               <l>Heroick Duſt, that ſleeps in Sheets of Lead,</l>
+               <l>Throw off their marble Blankets from their Beſt.</l>
+               <l>Then let my Muſe, tho ſhe has little Art,</l>
+               <l>Attempt to act the Witch of <hi>Endor</hi>'s part.</l>
+               <l>Nay greater things than ere her Charms could do,</l>
+               <l>To raiſe both <hi>Samuel</hi> and <hi>Ely</hi> too.</l>
+               <l>Rife reverend <hi>Laud,</hi> and tell the World thy Story,</l>
+               <l>In thee wee loſt our Prieſt, in <hi>Charles</hi> our Gleey.</l>
+               <l>Methinks I ſee how this bleſt Martyr di'd,</l>
+               <l>Like Vertue, with a Vice on either ſide.</l>
+               <l>Oh! what a curſed Power did <hi>Albion</hi> awe;</l>
+               <l>That murther'd Men for keeping <hi>Moſes</hi>'s Law.</l>
+               <l>Thus, for a time, things in Confuſion ſtood;</l>
+               <l>The Land was gluted with new Sects, and Blood.</l>
+               <l>Thus Slaves and Subject Ruled with great Pride,</l>
+               <l>Inrich'd themſelves, and beggar'd all beſide.</l>
+               <lg>
+                  <l>And thus it was, till Fortune fac'd about,</l>
+                  <l>And he who made this damn'd rebellious Rout<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Juſt like a Candle, in a ſtink went out.</l>
+               </lg>
+               <l>One of their Gang, more damn'd than all the r<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</l>
+               <l>Uſurp'd <hi>(a curſed Wretch!)</hi> the name of Prieſt.</l>
+               <lg>
+                  <l>A Prieſt he was, but ſuch as <hi>Baal</hi> Imploys,</l>
+                  <l>To broach new Sects, and belch out Perjuries;</l>
+                  <l>To preach up Schiſme, and to publiſh lies.</l>
+               </lg>
+               <l>Unworthy of the Reverend Title <hi>Man,</hi>
+               </l>
+               <l>No more of <hi>Levi</hi>'s Tribe than <hi>Gad</hi> or <hi>Dan:</hi>
+               </l>
+               <l>No Parts, no Learning; never did commence,</l>
+               <l>Yet much admir'd —</l>
+               <l>(Not for his Wit, but for his want of Sence.)</l>
+               <l>A ſotiſh Blockhead, void of all that's good.</l>
+               <l>Expert, at nothing, but at Lies and Blood,</l>
+               <l>Yet him the Crowd ador'd, and him they lov'<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Him the Innocent ignorant Mob aprov'd.</l>
+               <pb n="4" facs="tcp:175119:4"/>
+               <l> H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who ſo much blaſphem'd the Name of King,</l>
+               <l>D<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> make his <hi>Exit</hi> in a hempen String.</l>
+               <l>And he, who Juſtice had ſo long defy'd,</l>
+               <l>Was nab'd at laſt, and then unpitty'd dy'd.</l>
+               <lg>
+                  <l>The Prince return'd (with him the <hi>Levites</hi> too.)</l>
+                  <l>Each Nonconforming Traitor had his due;</l>
+                  <l>Who made their <hi>Exits</hi> as did canting <hi>Hugh.</hi>
+                  </l>
+               </lg>
+               <l>The Prince came in; the People all obey.</l>
+               <l>With Joy they Bleſs, and celebrate the Day.</l>
+               <l>The Good divide the Trophies; ſhare the Spoil:</l>
+               <l>(A juſt Reward for all their Care and Toyl.</l>
+               <l>And then the Loyal Cauſe did ſoon prevail,</l>
+               <l>And the diſſenting Crew as ſoon turn tail.</l>
+               <l>The Thread of their tyrannick Reign was ſpun,</l>
+               <l>And he was happieſt who could ſwitteſt run.</l>
+               <l>Thoſe painted Sepulchres, are black within,</l>
+               <l>Like wainſcot Walls they all are lin'd, (with Sin).</l>
+               <l>Long Prayers they make, but on a meer pretence,</l>
+               <l>As void of holy Zeale, as of common Sence.</l>
+               <l>Ere many Years they fall to plot again,</l>
+               <l>And ſeek to breviate pious <hi>Charles</hi>'s Reign;</l>
+               <l>And in a grand and Nonconforme Cabal;</l>
+               <l>Ungrateful they! again to ploting fall:</l>
+               <lg>
+                  <l>Engag'd poor <hi>Monmouth</hi> in this grievious Crime</l>
+                  <l>(As afterwards again they did all <hi>Lime,</hi>)</l>
+                  <l>To make him King before's appointed time.</l>
+               </lg>
+               <l>But Heaven, who the black Intreague had ſeen,</l>
+               <l>Vnmask'd the Ploters, and ſtept in between.</l>
+               <l>It was not long ere <hi>Charles</hi> his Life laid down,</l>
+               <l>And <hi>James</hi> ſucceded—</l>
+               <l>As Heir preſumptive to the <hi>Albion</hi> Crown;</l>
+               <l>And then again the <hi>Ammonitiſh</hi> Crew,</l>
+               <l>Afreſh Rebel, again they Plot anew:</l>
+               <l>
+                  <hi>Monmouth</hi> in all haſt muſt now come, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>To thump the Sides o'th <hi>Babiloniſh</hi> W<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </l>
+               <l>But for want of Amunition loſt the da<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </l>
+               <l>Thanks to his truſty Trout, the Vallia<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>Who like a luſty Fellow run away.</l>
+               <l>
+                  <hi>James</hi> knowing well the weakneſs of hi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Being ti'd by his Oaths, and <hi>Albin</hi>'s La<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Liberty of Conſcience did ordain;</l>
+               <l>Not out of Conſcience, but of meer De<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </l>
+               <l>And who more buſy, who did more re<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </l>
+               <l>To pay their Homage at his Catholick <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Who fawn'd upon him more, Ye <hi>Nons</hi> t<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </l>
+               <l>Who ſtill advis'd him, what you'd have <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Was it not you that did the Biſhops Job <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Was it not by the Advice of <hi>P</hi>—and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>In Shoals you flock'd about him—</l>
+               <l>And tho he granted what you ere could <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>You were not pleas'd; <hi>you knew not what <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>And tho 'twas you help'd raiſe him to the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>You was the firſt that help'd to pull him <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>(Altho in that your Wiſdom more was <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>And then the <hi>Levites</hi> call'd the great <hi>Na<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>To regulate and juſtify the Law;</l>
+               <l>And keep bad Men, as you may be, in <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>May he with Victory his Foes purſue: <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>The adverſe ſide, where ere he comes, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>That as by a Power Divine he gain'd the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>His Sword may cut each Graft of Sciſm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>May <hi>Levies</hi> Tribe increaſe, and greater <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>May <hi>William</hi> live, be great, and proſpe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>To be a Plague to <hi>France,</hi> and <hi>Rome,</hi> an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>May Fortune ſtill attend that mighty P<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+               </l>
+               <l>And give you Freedom in the Future T<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
